@@ -1,2 +1,2 @@
 # Arte-Dental-Cancun
-pagina web del consultorio de la doctora gely
+Página web del consultorio de la Dra. Gely Carbajal
